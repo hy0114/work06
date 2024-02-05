@@ -1,0 +1,32 @@
+<svg width="183" height="183" viewBox="0 0 183 183" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_L" clip-path="url(#clip0_24_116)">
+<g id="line" opacity="0.4">
+<rect id="Rectangle" x="13.1146" y="12.4065" width="157.292" height="157.292" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<circle id="Oval" cx="91.5852" cy="91.2272" r="33.3363" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Oval_2" d="M139.267 91.2272C139.267 117.366 117.999 138.559 91.7602 138.559C65.5216 138.559 44.2537 117.366 44.2537 91.2272C44.2537 65.0882 65.5216 43.8957 91.7602 43.8957C117.999 43.8957 139.267 65.0882 139.267 91.2272Z" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Oval_3" d="M170.406 90.8773C170.406 134.215 135.196 169.348 91.7603 169.348C48.3246 169.348 13.1146 134.215 13.1146 90.8773C13.1146 47.54 48.3246 12.4065 91.7603 12.4065C135.196 12.4065 170.406 47.54 170.406 90.8773Z" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<rect id="Rectangle_2" x="1.21859" y="0.510579" width="181.083" height="181.083" rx="40.493" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 3" d="M0.791504 91.2272H182.729" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 3 Copy" d="M0.791504 57.289H182.729" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 3 Copy 2" d="M0.791504 125.165H182.729" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 4" d="M57.8219 0.0834961V182.021" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 4 Copy" d="M91.7604 0.0834961V182.021" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 4 Copy 2" d="M125.349 0.0834961V182.021" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 5" d="M170.833 11.9794L12.6875 170.125" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+<path id="Path 6" d="M13.542 12.6935L170.246 169.311" stroke="#828282" stroke-opacity="0.5" stroke-width="0.854167"/>
+</g>
+<g id="big_ic_1">
+<g id="cup">
+<path id="Stroke 1" fill-rule="evenodd" clip-rule="evenodd" d="M143.128 68.8206V95.4101C143.128 128.308 114.628 154.978 79.4797 154.978C44.331 154.978 15.8472 128.308 15.8472 95.4101V68.8206H143.128Z" stroke="#260B0B" stroke-width="5.97917" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path" d="M142.732 68.8206H168.024V91.4215L168.001 91.4218C167.544 98.7331 160.253 104.545 151.327 104.545C147.753 104.545 144.442 103.613 141.726 102.027" stroke="#260B0B" stroke-width="5.97917" stroke-linejoin="round"/>
+</g>
+<path id="Stroke 3" d="M15.6626 167.14H142.953" stroke="#260B0B" stroke-width="5.97917" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 3_2" d="M39.7842 43.4683C39.7842 43.4683 48.064 52.2636 64.0677 52.2636C72.0759 52.2636 87.0015 46.6114 92.4081 37.2179C97.8148 27.8244 94.5724 14.7885 79.9321 14.7885C65.2919 14.7885 61.8674 27.3809 67.098 37.2179C72.3286 47.0548 89.476 52.2636 97.6223 52.2636C114.025 52.2636 120.08 43.4683 120.08 43.4683" stroke="#260B0B" stroke-width="5.97917" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_24_116">
+<rect width="181.938" height="181.938" fill="white" transform="translate(0.791504 0.0834961)"/>
+</clipPath>
+</defs>
+</svg>
